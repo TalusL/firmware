@@ -100,7 +100,7 @@ jobs:
           # Hisilicon [HI3516EV200]
           #- {"platform": "hi3516dv200", "release": "lite"}
           #- {"platform": "hi3516ev200", "release": "lte"}
-          #- {"platform": "hi3516ev200", "release": "fpv"}
+          - {"platform": "hi3516ev200", "release": "fpv"}
           #- {"platform": "hi3516ev200", "release": "lite"}
           #- {"platform": "hi3516ev200", "release": "ultimate"}
           #- {"platform": "hi3516ev300", "release": "lte"}
