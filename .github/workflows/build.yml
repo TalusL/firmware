@@ -63,7 +63,7 @@ jobs:
           # Ingenic [T31]
           - {"platform": "t31", "release": "lite"}
           - {"platform": "t31", "release": "ultimate"}
-          - {"platform": "t31", "release": "fpv"}
+          #- {"platform": "t31", "release": "fpv"}
 
           # Ingenic [T40]
           #- {"platform": "t40", "release": "lite"}
